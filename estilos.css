@@ -1,0 +1,42 @@
+body{
+background-color:rgb(209, 239, 240);
+color: #061017;
+ font-family: 'Oswald', sans-serif;
+}
+
+h3{
+    color: #1d718f;;
+    font-size: 23px;
+}
+
+/*Esto es un comentario*/
+
+h1, p {
+    color:#154b5f;
+}
+
+img{
+    /*width: 300px;*/
+    /*height: 250px;*/
+    border-style:double;
+    border-color:#78536a;
+    margin-left: 100px;
+    margin-bottom: 10px;
+    padding: 20px;
+}
+
+.img1{
+    width: px;
+    height: 200px;
+}
+.img2{
+    width: 300px;
+    height: 200px;
+}
+
+a, small{
+    color:#e5b2b4;
+}
+
+
+
